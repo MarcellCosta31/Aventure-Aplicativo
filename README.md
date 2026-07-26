@@ -37,11 +37,6 @@ Complete missões, evolua seu herói, desbloqueie classes épicas e nunca mais p
 
 ## 📱 Capturas de Tela
 
-<div align="center">
-
-> *Adicione suas imagens na pasta `assets/screenshots/`*
-
-</div>
 
 <div align="center">
 <table>
@@ -50,12 +45,30 @@ Complete missões, evolua seu herói, desbloqueie classes épicas e nunca mais p
     <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/2.png" width="200"/></td>
     <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/4.png" width="200"/></td>
     <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/7.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/11.png" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Tela Inicial</sub></td>
     <td align="center"><sub>Tarefas</sub></td>
     <td align="center"><sub>Estudos</sub></td>
     <td align="center"><sub>Treinos</sub></td>
+    <td align="center"><sub>Personagem</sub></td>
+  </tr>
+</table>
+  <table>
+  <tr>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/3.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/5.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/6.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/9.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/13.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Criação de Tarefas</sub></td>
+    <td align="center"><sub>Criação de Pastas</sub></td>
+    <td align="center"><sub>Criação de Anotações</sub></td>
+    <td align="center"><sub>Criação de Treinos</sub></td>
+    <td align="center"><sub>Criação de Personagem</sub></td>
   </tr>
 </table>
 </div>
