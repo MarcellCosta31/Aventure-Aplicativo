@@ -85,25 +85,6 @@ O **Aventure** é um aplicativo que transforma suas atividades diárias em uma e
 
 ---
 
-## Plataformas
-
-| Plataforma | Status |
-|---|---|
-| Android | ✅ Disponível |
-| iOS | ✅ Disponível |
-
----
-
-## Download
-
-O aplicativo está disponível para download nas seguintes plataformas:
-
-- **Android**: Disponível via Expo Dev Client ou compilação nativa
-- **iOS**: Disponível via Expo Dev Client ou compilação nativa
-
-Para instalar, siga as instruções de instalação fornecidas pelo responsável pelo projeto.
-
----
 
 ## Suporte
 
