@@ -157,15 +157,6 @@ Crie seu próprio herói! Escolha um nome, personalize seu avatar com **pixel ar
 | 💀 HP = 0 | Personagem derrotado — sem criar pastas ou treinos |
 
 
-## 📞 Suporte
-
-Em caso de dúvidas, sugestões ou problemas, entre em contato:
-
-<div align="center">
-
-**Marcell Costa**
-
-</div>
 
 ---
 
