@@ -46,10 +46,10 @@ Complete missões, evolua seu herói, desbloqueie classes épicas e nunca mais p
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="assets/screenshots/screenshot1.png" width="200"/></td>
-    <td align="center"><img src="assets/screenshots/screenshot2.png" width="200"/></td>
-    <td align="center"><img src="assets/screenshots/screenshot3.png" width="200"/></td>
-    <td align="center"><img src="assets/screenshots/screenshot4.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/1.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/2.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/3.png" width="200"/></td>
+    <td align="center"><img src="https://github.com/MarcellCosta31/Aventure-Aplicativo/blob/main/telas%20de%20captura/4.png" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Tela Inicial</sub></td>
